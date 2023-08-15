@@ -1,1 +1,1 @@
-# yejukim.git.io
+# yejukim.github.io
